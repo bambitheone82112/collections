@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"opposition",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lacuna",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "FUCKU :))))",
+	"weekName": "u fucking sucks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

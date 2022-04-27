@@ -1,0 +1,58 @@
+{
+	"storyName": "bambi's purgatory fan made",
+	"difficulties": "hard,insane,god mode",
+	"hideFreeplay": false,
+	"weekBackground": "Stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"opposition",
+			"Soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"Redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"tsukareta",
+			"godpunged",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"dissonant",
+			"dissonant",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Redacted",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"tsukareta",
+			"godpunged",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "god mode,finale,fucked",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "fucked",
+	"weekName": "fuck you",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

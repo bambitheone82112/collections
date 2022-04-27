@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"ripple",
+			"angry",
+			[
+				255,
+				60,
+				73
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "your bullying me your trolling me your liar!!!!! fuck you!!!!!!!",
+	"weekName": "fuck you fuck you",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

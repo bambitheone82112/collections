@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"opposition",
+			"sonic",
+			[
+				75,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "fuck you. your'e done.",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial,week1,week2,week3,week4,week5",
+	"startUnlocked": false
+}

@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Redacted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was sure hard soulbi"
+		}
+	]
+}

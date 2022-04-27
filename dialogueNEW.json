@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "YO PAINTHEKILLER ARE YOU HERE TO KILL ME???? PLSS DONT KILL ME :(("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK OK ILL SPARE MY KEYBOARD ON"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "PLSS I BEG YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OK OK JUST PLS LET ME GO OF THIS WORLD ;((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "AND JUST RAP PLSS:(((((((((((((((((((((((((((((((((((((((((((((((((((((((w"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OK OK dfjkdfjkdfjkdfjjdjfjfjkfdjkfjkfdjjfkdjkfdjfjfdjkfjkfdkjfdjkfdkjdfkdfkjfdjkdjkfjdkfjkdfjkfdjkdfjkfdjkfdjfdkjkfdjdkfjfdkjkfdfjkdjkfdjkfdjkfdjkfdjkdjkfdjkfdjkfdjkfdkjfdkjfdkjjkfjkdjkjkfdjkfdjkfdkfdjkjkfdjkfdjkjkfdjkfdjkfdjkdfjkdjkfdjkfdjkfdjkfdkjfdjkjkfdjkjfkdjkfdfdjkkfdjdjkfdfdjkfdjkdjkdkfdjkkfdkjkjkjkjfddfkjdjkfdfjkjfdjkfjkfjkfdjkdfjkdfjkfdfdfdjkdjkfkjdfjkfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdjkfdjkdfkdjfkjdfkjdfjkfdkjfdjkfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdjkdffffffffffffffjkfdsjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkdkfjfdjkfdjkfdjkfdkjfdjkkjfdjkfdfdjkdkjfdjkdfjkfdjkdfjkfdjkw"
+		}
+	]
+}

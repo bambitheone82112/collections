@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"tsukareta",
+			"godpunged",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"dissonant",
+			"dissonant",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"secret",
+			"trueexpunged",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

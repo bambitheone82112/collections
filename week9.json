@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"outerspace",
+			"mewhennopizzarolls",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tresspass",
+			"mewhennopizzarolls",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"outerspace",
+			"mewhenopizzarolls",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "fucking idiot,hongakriss my phone!!! is he want to he fucktow?!?! holyshit!!!",
+	"weekName": "fuck",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

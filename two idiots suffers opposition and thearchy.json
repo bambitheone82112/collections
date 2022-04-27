@@ -1,0 +1,130 @@
+{
+	"songs": [
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"opposition",
+			"soulbi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"thearchy",
+			"redacted",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard,hard,hard,hard",
+	"weekCharacters": [
+		"redacted",
+		"bf",
+		"soulbi"
+	],
+	"storyName": "two idiots suffers opposition and thearchy :((",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}

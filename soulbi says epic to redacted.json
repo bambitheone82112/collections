@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Soulbi3D",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats so epic redacted"
+		}
+	]
+}
